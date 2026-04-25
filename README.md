@@ -37,7 +37,7 @@ This dataset is widely used in ML projects for diabetes prediction. ()
 
 ## ⚙️ Technologies Used
 
-* Python 🐍
+* Python 
 * NumPy
 * Pandas
 * Matplotlib / Seaborn
@@ -99,6 +99,8 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 
+<img width="998" height="685" alt="Screenshot 2026-04-10 180738" src="https://github.com/user-attachments/assets/fa35ad71-2956-48fb-b5d2-9ea11126c144" />
+<img width="1868" height="880" alt="Screenshot 2026-04-10 180656" src="https://github.com/user-attachments/assets/aeb998fb-e948-4eb2-841b-f898d04d7beb" />
 <img width="962" height="692" alt="Screenshot 2026-04-10 180808" src="https://github.com/user-attachments/assets/683993fd-f7ff-4e7f-b6dc-ca5c67dd4ac2" />
 
 ---
