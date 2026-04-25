@@ -99,6 +99,8 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 
+<img width="962" height="692" alt="Screenshot 2026-04-10 180808" src="https://github.com/user-attachments/assets/683993fd-f7ff-4e7f-b6dc-ca5c67dd4ac2" />
+
 ---
 
 ## 💡 Future Improvements
