@@ -138,8 +138,8 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Rajanya Saha**
-B.Tech CSE (AI & ML)
-Narula Institute of Technology
+**Rajanya Saha**<br>
+B.Tech CSE (AI & ML)<br>
+Narula Institute of Technology<br>
 
 ---
